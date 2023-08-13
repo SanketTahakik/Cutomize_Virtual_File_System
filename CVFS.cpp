@@ -3,7 +3,7 @@
 // Function name : 
 // input         : integer
 // Output        : integer
-// Discption     :  
+// Discption     : This project are create in C language 
 // Auther        : Tahakik Sanket Rajendra
 // Date          : 11/07/2023
 //
@@ -12,7 +12,7 @@
 
 /////////////////////////////////////////////////////////////
 //
-// Problem Statement : Customised Dynamic File System
+// Problem Statement : Customised Virtual File System
 //
 /////////////////////////////////////////////////////////
 
